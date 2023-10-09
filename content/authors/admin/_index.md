@@ -1,6 +1,7 @@
 ---
 title: Elizabeth Long
 role: PhD Candidate
+avatar_filename: liz.jpg
 bio: ""
 interests:
   - personality
@@ -10,11 +11,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: Google Scholar
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=MlMMj9MAAAAJ&hl=en
-  - icon: Research Gate
-    icon_pack: fab
+  - icon: researchgate
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Elizabeth-Long-25
   - icon: cv
     icon_pack: ai
