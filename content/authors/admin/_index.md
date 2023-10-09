@@ -38,5 +38,5 @@ email: ""
 ---
 I am a PhD student in personality psychology at the University of Toronto, where I am co-supervised by Erika Carlson & Marc Fournier. 
 
-Broadly, I am interested in the various routes people take to acquiring self-knowledge and the causes and consequences of doing so more vs less effectively. She is also interested in metascience & philosophy of science, & what it means to have good theories of psychological phenomena.
+Broadly, I am interested in the various routes people take to acquiring self-knowledge and the causes and consequences of doing so more vs less effectively. I am also interested in metascience & philosophy of science, & what it means to have good theories of psychological phenomena.
 {style="text-align: justify;"}
