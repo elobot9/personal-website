@@ -15,8 +15,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-      Drop me an email?
+      text: Drop me an email?
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
