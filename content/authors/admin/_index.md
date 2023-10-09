@@ -31,9 +31,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Long
 highlight_name: true
-first_name: Alice
+first_name: Elizabeth
 email: ""
 ---
 I am a PhD student in personality psychology at the University of Toronto, where I am co-supervised by Erika Carlson & Marc Fournier. 
