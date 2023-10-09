@@ -19,7 +19,7 @@ social:
     link: https://www.researchgate.net/profile/Elizabeth-Long-25
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/ElizabethLongCV_october2023
 organizations: []
 education:
   courses:
