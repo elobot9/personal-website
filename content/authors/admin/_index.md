@@ -1,7 +1,7 @@
 ---
 title: Elizabeth Long
 role: PhD Candidate
-avatar_filename: liz.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - personality
